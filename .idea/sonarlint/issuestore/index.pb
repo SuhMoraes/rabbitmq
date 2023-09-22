@@ -1,0 +1,7 @@
+
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+K
+producer-service/.gitignore,5\9\598d78e90b27b274e05c2ea14457a3cb548f0176
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
